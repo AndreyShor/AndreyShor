@@ -1,6 +1,4 @@
 
-<!--
-**AndreyShor/AndreyShor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 I am a GenAi Engineer currently working on multiple Agentic System Projects<br><br>Feel free to contact
@@ -20,4 +18,3 @@ I am a GenAi Engineer currently working on multiple Agentic System Projects<br><
 ---
 [![](https://visitcount.itsvg.in/api?id=AndreyShor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
